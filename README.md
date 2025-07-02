@@ -17,7 +17,7 @@ A lightweight Unix shell built in C as part of the **42 curriculum**. Minishell 
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/minishell.git
+git clone https://github.com/Ali-Fayad/minishell.git
 cd minishell
 ```
 
